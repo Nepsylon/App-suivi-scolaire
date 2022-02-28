@@ -76,6 +76,17 @@ input {
     input:focus:-moz-placeholder {
     color: #222; }
 
+    input:focus{
+        outline-style:none;
+        box-shadow:none;
+        border-color:black;
+        background-color: white;
+    }
+
+    input:active{
+        background-color: white;
+    }
+
 
 label {
     position: absolute;
@@ -111,16 +122,16 @@ label {
     font-weight: 200;
 }
 
-.connexion{
+.inscription{
     padding-top: 50px;
     margin-bottom: 150px;
 }
 
-.connexion-group {
+.inscription-group {
     padding: 75px 0;
  }
 
-.connexion-form{
+.inscription-form{
     margin: 0 auto;
     width: 50%;
     overflow: hidden;
