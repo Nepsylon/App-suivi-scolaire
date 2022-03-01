@@ -8,9 +8,9 @@
 }
 
 @media screen and (max-width: 1200px) {
-.container {
-    width: calc( 100% - 30px);
-    max-width: 100%; } }
+    .container {
+        width: calc( 100% - 30px);
+        max-width: 100%; } }
 @media screen and (min-width: 1024px) {
 .container {
     max-width: 1200px; } }
@@ -29,18 +29,17 @@
 }
 
 @media screen and (max-width: 400px) {
-  .social-login {
+    .social-login {
     flex-direction: column;
     -moz-flex-direction: column;
     -webkit-flex-direction: column;
     -o-flex-direction: column;
     -ms-flex-direction: column; }
 
-  .social-label {
+    .social-label {
     margin-right: 0px;
     margin-bottom: 10px; } }
-
-
+    
 h2 {
     line-height: 1.66;
     margin: 0;
@@ -83,7 +82,7 @@ input {
 
     input:active{
         background-color: white;
-    }
+    }   
 
 
 label {
@@ -95,8 +94,8 @@ label {
     -webkit-transform: translateY(-50%);
     -o-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
-    color: #222; }
-          
+    color: #222; 
+}
 
 
 .container {
@@ -112,8 +111,8 @@ label {
     -moz-border-radius: 20px;
     -webkit-border-radius: 20px;
     -o-border-radius: 20px;
-    -ms-border-radius: 20px; }
-
+    -ms-border-radius: 20px; 
+}
 
 .form-title{
     font-family:'magical_holidayregular';
@@ -121,21 +120,21 @@ label {
     margin-bottom: 33px;
 }
 
-.inscription{
+.connexion{
     padding-top: 100px;
     margin-bottom: 150px;
 }
 
-.inscription-group {
+.connexion-group {
     padding: 75px 0;
- }
+}
 
-.inscription-form{
+.connexion-form{
     margin: 0 auto;
     width: 50%;
     overflow: hidden;
     padding-bottom: 15px;
- }
+}
 
 .submit-bouton {
     display: inline-block;
@@ -153,7 +152,8 @@ label {
     margin-top: 25px;
     cursor: pointer;
     transition: transform 400ms;
- }
+}
+
 
 .submit-bouton:hover{
     transform: scale(1.20);
@@ -164,19 +164,22 @@ label {
     text-align: center;
 }
 
-
-
 .inputs{
     position: relative;
-    margin-bottom: 25px;
+    margin-top: 50px;
     overflow: hidden; }
 
 .inputs:last-child {
     margin-bottom: 0px; 
 }
 
+.connexion-image{
+    max-width: 40px;
+    max-height: auto;
+}
 
-.connexion-link {
+
+.inscription-link {
     font-size: 14px;
     color: #222;
     display: block;
@@ -187,7 +190,7 @@ label {
     transition: transform 400ms;
  }
 
-.connexion-link:hover{
+.inscription-link:hover{
     transform: scale(1.25);
 }
 
@@ -195,3 +198,4 @@ label {
 .link{
     margin-top: 30px;
 }
+

@@ -4,9 +4,37 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/connexion.css">
     <title>Document</title>
 </head>
 <body>
-    <a href="pages/inscription.html">Create an account</a>
+    <section class="connexion">
+        <div class="container">
+            <div class="connexion-group">
+                <div class="connexion-form">
+                    <h2 class="form-title">Sign In</h2>
+
+                    <form action="" class="formulaire" id="formulaire">
+                        <div class="inputs">
+                            <label for="email" class="input-label"></label>
+                            <input type="email" name="email" id="email" placeholder="Your Mail" autocomplete="off">
+                        </div>
+                        <div class="inputs">
+                            <label for="password" class="input-label"></label>
+                            <input type="password" name="password" id="password" placeholder="Your Password" autocomplete="off">
+                        </div>
+
+                        <div class="input-button">
+                            <input type="submit" class="submit-bouton" name="connexion" id="connexion" value="Sign In">
+                        </div>
+                    </form>
+                </div>
+
+                <div class="link">
+                    <a href="./pages/inscription.html" class="inscription-link">Create an account</a>
+                </div>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
