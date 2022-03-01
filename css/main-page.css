@@ -3,6 +3,15 @@
     padding: 0;
 }
 
+@font-face {
+    font-family: 'magical_holidayregular';
+    src: url('../fonts/MagicalHollyday/magical_holiday-webfont.woff2') format('woff2'),
+         url('../fonts/MagicalHollyday/magical_holiday-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 .menu{
     position: relative;
     background-color: #8EC1F0;
@@ -34,3 +43,59 @@
 .custom-shape-divider-bottom-1646131491 .shape-fill {
     fill: white;
 }
+
+.main-menu{
+    display: flex;
+    padding: 5px;
+    width: 100%;
+    height: auto;
+}
+
+.nav-item1{
+    flex-basis: 25%;
+    flex-direction: row;
+    text-align: center;
+}
+
+.main-title{
+    font-family: 'magical_holidayregular';
+    color: white;
+    font-size: 35px;
+
+}
+
+.nav-item2{
+    flex-direction: row;
+    flex-basis: 50%;
+    padding: 15px;
+}
+
+.site-menu{
+    list-style-type: none;
+    text-align: center;
+    padding: 15px;
+}
+
+.nav-link{
+    display: inline;
+    margin-left: 20px ;
+    color: white;
+    font-family: 'magical_holidayregular';
+    font-size: 20px;
+}
+
+.nav-item3{
+    flex-direction: row;
+    flex-basis: 25%;
+    text-align: center;
+    padding: 28px;
+}
+
+.my-account{
+    text-decoration: none;
+    color: white;
+    font-family: 'magical_holidayregular';
+    font-size: 20px;
+}
+
+    
