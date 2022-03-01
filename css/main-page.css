@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    position: relative;
+    background-color: #8EC1F0;
+    min-height: 40vh;
+}
+
+.main-title{
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.custom-shape-divider-bottom-1646131491 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1646131491 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 203px;
+}
+
+.custom-shape-divider-bottom-1646131491 .shape-fill {
+    fill: white;
+}
