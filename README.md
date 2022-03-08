@@ -1,6 +1,6 @@
 <div id="top"></div>
 <!--
-*** DevII-ModuleIII -> Développement et gestion des connexions, inscriptions et permissions.
+*** DevIII -> Développement d'une application web visant la communication entre enseignants de primaire et parents d'élèves.
 -->
 
 <br />
@@ -12,15 +12,15 @@
     <li>
       <a href="#a-propos-du-projet">A propos du projet</a>
       <ul>
-        <li><a href="#a-savoir">A savoir</a></li>
+        <li><a href="#description-du-projet">Description du projet</a></li>
+        <li><a href="#a-propos-du-client">A propos du client</a></li>
       </ul>
     </li>
     <li>
       <a href="#pour-commencer">Pour commencer</a>
       <ul>
-        <li><a href="#prerequis">Prérequis</a></li>
-        <li><a href="#exécution">Exécution</a></li>
-        <li><a href="#outils">Outils</a></li>
+        <li><a href="#technologies-choisies">Technologies choisies</a></li>
+        <li><a href="#liens-utiles">Liens utiles</a></li>
       </ul>
     </li>
     <li>
@@ -36,44 +36,36 @@
 <!-- A PROPOS DU PROJET -->
 ## A propos du projet
 
-Ce repository Github contient l'implémentaion du module 3 du projet noyau visant à réaliser une application bureau de messagerie multi-plateformes entièrement réalisé sous python.
-Ce repository comporte l'implémentation des parties connexion, inscription ainsi que des permissions de chaque utilisateurs.
-Cette implémentation à été réalisé lors d'un projet commmun par 4 étudiants dans le cadre du cours de Développement II - 2022.
+Ce repository Github contient l'implémentaion de notre application web de suivi scolaire. Celle-ci est réaliser en collaboration avec notre client. Celle-ci consiste à une plateforme permettant une meilleure communication entre le professeur d'une classe de primaire et les parents d'élèves. Celle-ci proposera plusieurs rubriques, tel que la présence d'un planning de devoirs et de contrôles que l'enfant doit réaliser à la maison. On pourra également y retrouver les commentaires/remarques que le professeur veut communiquer aux différents parents. Une rubrique reprenant toutes les actualités de l'école ainsi que les différents contacts de l'écoles sera disponible pour faciliter encore une fois une communication limpide.
+
+Pour profiter de chaque fonctionnalité de l'application, les parents devront partager leur adresse mail respective afin de pouvoir se connecter et visualiser les différentes informations liés à leur/s enfant/s.
+
+Les professeurs pourront bien entendu modifier leur information, les remarques/notes ainsi que le planning de leurs élèves.
+
+Pour le bon déroulement de l'application, le secrétariat devra jouer un role dans la mise jour des listes d'élèves inscrits dans l'école.
 
 <p align="right">
 
 
-### A savoir
+### A propos du client
 
-* Python -> Python 3.8 ou +
-* Kivy -> GUI Kivy 2.0 -> https://kivy.org/doc/stable/api-kivy.html
-* MongoDB -> Support de base de donnée -> https://www.mongodb.com/fr-fr/cloud/atlas
-* Convention de code -> PEP8 https://www.python.org/dev/peps/pep-0008/
+Notre cliente est une enseignante de 5 ème primaire travaillant à Bruxelles. Celle-ci utilise déja une application web qui pour elle manque de certaines fonctionnalités de communication avec les parents. 
 
 
   
 <!-- POUR COMMENCER -->
 ## Pour Commencer
 
-Ce repository contient comme dit précédemment, uniquement la partie traitant des inscriptions, connexions et permissions. Pour pouvoir avoir la globalité du projet noyau, veuillez vous rendre sur le lien github ci-joint: https://github.com/jnoelEphec/noyau_devII
-
-### Prérequis
+### Technologies choisies
   
-* Avoir installé préalablement Python dans sa version 3.8 minimum.
-* Avoir pris connaissance et installer les différents modules contenus dans le fichier "requirements.txt".
+* Backend: MySQL/JavaScript
+* Frontend: VueJs
 
-### Exécution
+### Liens utiles
 
-Pour exécuter ce module, il vous faut lancer le fichier "main.py".
-Une interface graphique devrait se lancer et vous pourrez dés-lors effectuer une inscription/connexion. Vos inscriptions seront enregistré dans une base de donnée distante géré par mongoDB.
-
-  
-### Outils
-- Git/Github - https://github.com/
-- [Github Project]
-- Pycharm (License éducative) - https://www.jetbrains.com/fr-fr/pycharm/
-- Python 3.8+ - https://www.python.org/downloads/
-- Environnements virtuels - https://docs.python.org/3/library/venv.html  
+* Url du site: ??
+* Liens vers les outils: ??
+* Lien vers la vidéo de présentation: ??  
 
 
   
@@ -82,10 +74,21 @@ Une interface graphique devrait se lancer et vous pourrez dés-lors effectuer un
   
 ### Nous contacter ?
   
-* m.momin@students.ephec.be
-* e.maisin@students.ephec.be
-* g.falla@students.ephec.be
-* f.detroz@students.ephec.be
+* Pseudo Github: M-Momin 
+  Nom/Prénom: MOMIN Maxime
+  Adresse mail : m.momin@students.ephec.be
+  
+* Pseudo Github: edouardmais1
+  Nom/prénom: MAISIN Edouard
+  Adresse mail: e.maisin@students.ephec.be
+  
+* Pseudo Github: ??
+  Nom/Prénom: FALLA Gregory
+  Adresse mail: g.falla@students.ephec.be
+  
+* Pseudo Github: Nepsylon
+  Nom/Prénom: SIMON Kinet
+  Adress mail: ??
 
   
 
