@@ -74,9 +74,9 @@ Notre cliente est une enseignante de 5 ème primaire travaillant à Bruxelles. C
   
 ### Nous contacter ?
   
-* Pseudo Github: M-Momin 
-  Nom/Prénom: MOMIN Maxime
-  Adresse mail : m.momin@students.ephec.be
+* Pseudo Github: M-Momin<br></br> 
+  Nom/Prénom: MOMIN Maxime<br></br> 
+  Adresse mail : m.momin@students.ephec.be<br></br> 
   
 * Pseudo Github: edouardmais1
   Nom/prénom: MAISIN Edouard
