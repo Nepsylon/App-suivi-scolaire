@@ -39,6 +39,16 @@
     .social-label {
     margin-right: 0px;
     margin-bottom: 10px; } }
+
+
+html{
+    overflow-y: hidden;
+}
+
+body{
+    background-image: url("../images/main-background.jpg");
+}
+
     
 h2 {
     line-height: 1.66;
