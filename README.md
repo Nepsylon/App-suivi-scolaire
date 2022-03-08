@@ -88,7 +88,7 @@ Notre cliente est une enseignante de 5 ème primaire travaillant à Bruxelles. C
   
 * Pseudo Github: Nepsylon<br></br> 
   Nom/Prénom: SIMON Kinet<br></br> 
-  Adress mail: ??<br></br> 
+  Adress mail: s.kinet@students.ephec.be<br></br> 
 
   
 
