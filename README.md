@@ -82,7 +82,7 @@ Notre cliente est une enseignante de 5 ème primaire travaillant à Bruxelles. C
   Nom/prénom: MAISIN Edouard<br></br> 
   Adresse mail: e.maisin@students.ephec.be<br></br> 
   
-* Pseudo Github: ??<br></br> 
+* Pseudo Github: gregfalla<br></br> 
   Nom/Prénom: FALLA Gregory<br></br> 
   Adresse mail: g.falla@students.ephec.be<br></br> 
   
