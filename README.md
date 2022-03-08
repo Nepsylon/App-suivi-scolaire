@@ -78,17 +78,17 @@ Notre cliente est une enseignante de 5 ème primaire travaillant à Bruxelles. C
   Nom/Prénom: MOMIN Maxime<br></br> 
   Adresse mail : m.momin@students.ephec.be<br></br> 
   
-* Pseudo Github: edouardmais1
-  Nom/prénom: MAISIN Edouard
-  Adresse mail: e.maisin@students.ephec.be
+* Pseudo Github: edouardmais1<br></br> 
+  Nom/prénom: MAISIN Edouard<br></br> 
+  Adresse mail: e.maisin@students.ephec.be<br></br> 
   
-* Pseudo Github: ??
-  Nom/Prénom: FALLA Gregory
-  Adresse mail: g.falla@students.ephec.be
+* Pseudo Github: ??<br></br> 
+  Nom/Prénom: FALLA Gregory<br></br> 
+  Adresse mail: g.falla@students.ephec.be<br></br> 
   
-* Pseudo Github: Nepsylon
-  Nom/Prénom: SIMON Kinet
-  Adress mail: ??
+* Pseudo Github: Nepsylon<br></br> 
+  Nom/Prénom: SIMON Kinet<br></br> 
+  Adress mail: ??<br></br> 
 
   
 
