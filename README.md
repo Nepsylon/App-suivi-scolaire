@@ -68,15 +68,15 @@ Notre cliente est une enseignante de 5ème primaire travaillant à Bruxelles. Ce
 
 * Url du site: ??
 * Liens vers les outils: 
-  MySQL : --> https://www.mysql.com/fr/ <br>
-  SQLite : --> https://sqlite.org/index.html <br>
-  VueJs : --> https://vuejs.org/ <br>
-  Bootstrap : --> https://getbootstrap.com/ <br>
-  Github : --> https://github.com/ <br>
-  Trello : --> https://github.com/ <br>
-  Clockify : --> https://app.clockify.me <br>
-  VScode : --> https://code.visualstudio.com/ <br>
-  SublimeText : --> https://www.sublimetext.com/ <br>
+  MySQL : --> https://www.mysql.com/fr/ <br><br>
+  SQLite : --> https://sqlite.org/index.html <br><br>
+  VueJs : --> https://vuejs.org/ <br><br>
+  Bootstrap : --> https://getbootstrap.com/ <br><br>
+  Github : --> https://github.com/ <br><br>
+  Trello : --> https://github.com/ <br><br>
+  Clockify : --> https://app.clockify.me <br><br>
+  VScode : --> https://code.visualstudio.com/ <br><br>
+  SublimeText : --> https://www.sublimetext.com/ <br><br>
   
 * Lien vers la vidéo de présentation: ??  
 
