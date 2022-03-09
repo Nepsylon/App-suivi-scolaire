@@ -49,7 +49,7 @@ Pour le bon déroulement de l'application, le secrétariat devra jouer un role d
 
 ### A propos du client
 
-Notre cliente est une enseignante de 5 ème primaire travaillant à Bruxelles. Celle-ci utilise déja une application web qui pour elle manque de certaines fonctionnalités de communication avec les parents. 
+Notre cliente est une enseignante de 5ème primaire travaillant à Bruxelles. Celle-ci utilise déja une application web qui pour elle manque de certaines fonctionnalités de communication avec les parents. 
 
 
   
@@ -58,13 +58,26 @@ Notre cliente est une enseignante de 5 ème primaire travaillant à Bruxelles. C
 
 ### Technologies choisies
   
-* Backend: MySQL/JavaScript
-* Frontend: VueJs
+* Backend : 
+  MySQL/SQLite
+* Frontend :
+  VueJs
+  Bootstrap
 
 ### Liens utiles
 
 * Url du site: ??
-* Liens vers les outils: ??
+* Liens vers les outils: 
+  MySQL : --> https://www.mysql.com/fr/
+  SQLite : --> https://sqlite.org/index.html
+  VueJs : --> https://vuejs.org/
+  Bootstrap : --> https://getbootstrap.com/
+  Github : --> https://github.com/
+  Trello : --> https://github.com/
+  Clockify : --> https://app.clockify.me
+  VScode : --> https://code.visualstudio.com/
+  SublimeText : --> https://www.sublimetext.com/
+  
 * Lien vers la vidéo de présentation: ??  
 
 
