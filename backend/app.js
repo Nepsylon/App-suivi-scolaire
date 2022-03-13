@@ -1,6 +1,6 @@
 'use strict'
 
-/*eslint-env es6*/
+//----> se rendre dans le fichier "backend" pour lancer le serveur ----> cd backend ----> npm start (commande ajouté manuellement dans le package)
 
 //port sur lequel on effectue les opérations
 const PORT = 3000;
