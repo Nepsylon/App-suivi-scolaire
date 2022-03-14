@@ -1,20 +1,13 @@
 'use strict'
 
-//----> se rendre dans le fichier "backend" pour lancer le serveur ----> cd backend ----> npm start (commande ajouté manuellement dans le package)
+//importer le module Express
+const express = require('express');
 
-//port sur lequel on effectue les opérations
-const PORT = 3000;
+const app = express();
 
-//import Express
-const express = require("express");
+app.use((req, res) => {
+   res.json({ message: 'Votre requête a bien été reçue !' }); 
+});
 
-//crée une application express (lance un serveur)
-const app = express()
-
-app.get('/',(req,res)=> {
-    res.send('hello world')
-})
-
-app.listen(PORT, ()=> {
-    console.log("serveur lancé sur le port" + PORT);
-})
+//exporter 'app.js'
+module.exports = app;
