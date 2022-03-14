@@ -36,7 +36,7 @@
 <!-- A PROPOS DU PROJET -->
 ## A propos du projet
 
-Ce repository Github contient l'implémentaion de notre application web de suivi scolaire. Celle-ci est réaliser en collaboration avec notre client. Cette application consiste à une plateforme permettant une meilleure communication entre le professeur d'une classe de primaire et les parents d'élèves. Elle proposera plusieurs rubriques, tel que la présence d'un planning de devoirs et de contrôles que l'enfant doit réaliser à la maison. On pourra également y retrouver les commentaires/remarques que le professeur veut communiquer aux différents parents. Une rubrique reprenant toutes les actualités de l'école ainsi que les différents contacts de l'écoles sera disponible pour faciliter encore une fois une communication limpide.
+Ce repository Github contient l'implémentation de notre application web de suivi scolaire. Celle-ci est réaliser en collaboration avec notre client. Cette application consiste à une plateforme permettant une meilleure communication entre le professeur d'une classe de primaire et les parents d'élèves. Elle proposera plusieurs rubriques, tel que la présence d'un planning de devoirs et de contrôles que l'enfant doit réaliser à la maison. On pourra également y retrouver les commentaires/remarques que le professeur veut communiquer aux différents parents. Une rubrique reprenant toutes les actualités de l'école ainsi que les différents contacts de l'écoles sera disponible pour faciliter encore une fois une communication limpide.
 
 Pour profiter de chaque fonctionnalité de l'application, les parents devront partager leur adresse mail respective afin de pouvoir se connecter et visualiser les différentes informations liés à leur/s enfant/s.
 
