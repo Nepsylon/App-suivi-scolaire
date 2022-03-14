@@ -1,12 +1,16 @@
 //import module MySQL2
 const mysql = require('mysql2');
+const dotenv = require('dotenv');
+const { path } = require('./app');
+
+dotenv.config({path : './config.env'});
 
 let connection = mysql.createConnection({
     host : '176.96.231.253',
-    user : 'appscolaire',
-    password : 'appscolaireephec',
-    name : 'appscolaire',
-    database : 'appscolaire'
+    user : process.env.user,
+    password : process.env.password,
+    name : process.env.name,
+    database : process.env.database
 });
 
 connection.connect(function(err) {
